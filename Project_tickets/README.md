@@ -1,6 +1,6 @@
 # Анализ данных сервиса по продаже билетов на различные мероприятия
 
-[HTML](#) [ipynb](#) [datalens](https://datalens.yandex/rcgsaop124rid)
+[HTML](https://htmlpreview.github.io/?https://github.com/VladaMorozova/Practicum_projects/blob/main/Project_tickets/D_Portfolio.html) [ipynb](#) [datalens](https://datalens.yandex/rcgsaop124rid)
 
 ## Описание проекта
 
