@@ -1,6 +1,6 @@
 # Разработка А/В-теста и анализ данных приложения с функцией “бесконечной” ленты
 
-[HTML](https://htmlpreview.github.io/?https://github.com/VladaMorozova/Practicum_projects/blob/main/Project_tickets/D_project_tickets.html) [ipynb](https://github.com/VladaMorozova/Practicum_projects/blob/main/Project_tickets/D_project_tickets.ipynb)
+[HTML](https://htmlpreview.github.io/?https://github.com/VladaMorozova/Practicum_projects/blob/main/Project_app_tape/App%20endless%20tape.html) [ipynb](https://github.com/VladaMorozova/Practicum_projects/blob/main/Project_app_tape/App%20endless%20tape.ipynb)
 
 ## Описание проекта
 
